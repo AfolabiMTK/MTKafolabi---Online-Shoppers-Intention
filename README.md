@@ -1,4 +1,4 @@
-# MTKafolabi---Online-Shoppers-Intention
+# MTKafolabi-Online-Shoppers-Intention
 
 The data used in this analysis is an Online Shoppers Purchasing Intention data set provided from a top ecommerce site. The data set was formed so that each session would belong to a different user in a 1-year period to avoid any tendency to a specific campaign, special day, user profile, or period.
 
